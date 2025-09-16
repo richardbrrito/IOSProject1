@@ -27,14 +27,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://github.com/user-attachments/assets/759d0733-96ac-452f-a073-9e7460e16355
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Getting used to the XCode eco system, figuring out Swift views.. etc.
 ## License
 
     Copyright 2025 Richard Brito
